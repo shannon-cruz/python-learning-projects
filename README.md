@@ -17,6 +17,19 @@ A Python script that extracts and organizes exhibitor information from event web
 **Skills demonstrated:** Web scraping, data cleaning, automation
 
 **Status:** Functional prototype
+
+### 2. N8N Automation Workflows
+Documentation and exports of my automation workflows built in n8n.
+
+**What it does:**
+- Automates repetitive business processes
+- Integrates multiple tools and APIs
+- Reduces manual work for content creation and data processing
+
+**Skills demonstrated:** Workflow design, API integration, process automation
+
+**Status:** 11+ workflows in production use
+
 ## About Me
 
 - 🔧 Building AI automation workflows at Zetta Design Lab
