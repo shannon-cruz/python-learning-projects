@@ -6,8 +6,17 @@ This repository is a collection of scripts and projects I'm working on as I deve
 
 ## Projects
 
-*Coming soon...*
+### 1. Exhibitor Data Scraper
+A Python script that extracts and organizes exhibitor information from event websites.
 
+**What it does:**
+- Scrapes exhibitor data from web pages
+- Cleans and structures the data
+- Exports to CSV for analysis
+
+**Skills demonstrated:** Web scraping, data cleaning, automation
+
+**Status:** Functional prototype
 ## About Me
 
 - 🔧 Building AI automation workflows at Zetta Design Lab
